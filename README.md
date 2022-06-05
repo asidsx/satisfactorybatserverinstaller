@@ -1,6 +1,6 @@
 # Satisfactory bat server installer
 
-![cmd](https://user-images.githubusercontent.com/106923482/172061034-13cbec53-ecfd-4cf3-ba53-ad53dd32dcae.png)
+![cmd](https://user-images.githubusercontent.com/106923482/172061432-3bc0af4d-77b5-4c54-990a-2f7849feeb0f.png)
 
 
 Download, run.
