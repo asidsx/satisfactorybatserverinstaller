@@ -5,12 +5,12 @@ Echo Select command:
 Echo.
 Echo 1 - Istall steamCMD+SatisfactoryServer+nssm
 Echo 2 - Start server
-Echo 3 - Update Server
+Echo 3 - Update Server from SteamCMD
 Echo -------Service--------------------------------
-Echo 4 - Install Service nssm
-Echo 5 - Start Service Server
-Echo 6 - Stop Service Server
-Echo 7 - Remove Service Server
+Echo 4 - Install Server as Service nssm
+Echo 5 - Start Server Service
+Echo 6 - Stop Server Service
+Echo 7 - Remove Server Service
 Echo ----------------------------------------------
 Echo 8 - Create shortcut for save files+service save folder
 Echo 0 - exit
