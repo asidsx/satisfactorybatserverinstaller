@@ -1,6 +1,6 @@
 # Satisfactory bat server installer
 
-![cmd](https://user-images.githubusercontent.com/106923482/172061432-3bc0af4d-77b5-4c54-990a-2f7849feeb0f.png)
+![cmd](https://user-images.githubusercontent.com/106923482/172063292-ef631164-2828-4dcd-942f-de14c01f326e.png)
 
 
 Download, run in the folder where you want to deploy the server.
