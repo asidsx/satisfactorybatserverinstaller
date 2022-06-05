@@ -6,12 +6,13 @@ Echo.
 Echo 1 - Istall steamCMD+SatisfactoryServer+nssm
 Echo 2 - Start server
 Echo 3 - Update Server
+Echo -------Service--------------------------------
 Echo 4 - Install Service nssm
 Echo 5 - Start Service Server
-Echo 6 - Status Service Server
-Echo 7 - Stop Service Server
-Echo 8 - Remove Service Server
-Echo 9 - Create shortcut for save files+service save folder
+Echo 6 - Stop Service Server
+Echo 7 - Remove Service Server
+Echo ----------------------------------------------
+Echo 8 - Create shortcut for save files+service save folder
 Echo 0 - exit
 echo.
  
@@ -25,7 +26,6 @@ if "%choice%"=="5" goto m5
 if "%choice%"=="6" goto m6
 if "%choice%"=="7" goto m7
 if "%choice%"=="8" goto m8
-if "%choice%"=="9" goto m9
 if "%choice%"=="0" goto end
 Echo.
 Echo Wrong selection, try again...
@@ -69,25 +69,20 @@ nssm.exe start SatisfactoryServerService
 
 goto m0
 
+
 :m6
-
-nssm.exe status SatisfactoryServerService
-
-goto m0
-
-:m7
 cls
 nssm.exe stop SatisfactoryServerService
 
 goto m0
 
-:m8
+:m7
 cls
 nssm remove SatisfactoryServerService
 
 goto m0
 
-:m9
+:m8
 @echo off
 
 set SCRIPT="%TEMP%\%RANDOM%-%RANDOM%-%RANDOM%-%RANDOM%.vbs"
