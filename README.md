@@ -3,14 +3,14 @@
 ![cmd](https://user-images.githubusercontent.com/106923482/172061432-3bc0af4d-77b5-4c54-990a-2f7849feeb0f.png)
 
 
-Download, run.
+Download, run in the folder where you want to deploy the server.
 If you go to install the server as a service, you need to 
-make nssm run as an administrator
+make nssm run as an administrator.
 
 ![unknodddwn](https://user-images.githubusercontent.com/106923482/172060874-4898113a-15f1-488e-b3bf-ceb0735b6129.png)
 
-Скачайте, запустите.
+Скачайте, запустите в той папке где хотите развернуть сервер.
 Если вы ходите установить сервер как сервис, то вам нужно 
-будет сделать запуск nssm под администратором
+будет сделать запуск nssm под администратором.
 
 ![sovmes](https://user-images.githubusercontent.com/106923482/172060978-81245253-2247-4b20-8c8b-bcaa68c4588b.png)
