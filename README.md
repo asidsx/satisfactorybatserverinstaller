@@ -1,5 +1,8 @@
 # Satisfactory bat server installer
 
+![cmd](https://user-images.githubusercontent.com/106923482/172061034-13cbec53-ecfd-4cf3-ba53-ad53dd32dcae.png)
+
+
 Download, run.
 If you go to install the server as a service, you need to 
 make nssm run as an administrator
