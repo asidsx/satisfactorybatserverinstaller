@@ -1,4 +1,5 @@
 # Satisfactory bat server installer
+![GitHub all releases](https://img.shields.io/github/downloads/asidsx/satisfactorybatserverinstaller/total)
 
 ![cmd](https://user-images.githubusercontent.com/106923482/172063292-ef631164-2828-4dcd-942f-de14c01f326e.png)
 
